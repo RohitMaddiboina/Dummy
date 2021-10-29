@@ -1,4 +1,4 @@
-package git;
+package vamsi98;
 
 public class HelloGit {
 
